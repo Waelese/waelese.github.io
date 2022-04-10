@@ -24,20 +24,18 @@ const RESOURCES = {
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "manifest.json": "47d366d3cebfab75c11e815e7c8d0075",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "afb1103f88cd5291789d9f670fc80e3b",
-"/": "afb1103f88cd5291789d9f670fc80e3b",
+"index.html": "3566f40a2a3814c2f5250c689edbe373",
+"/": "3566f40a2a3814c2f5250c689edbe373",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"main.dart.js": "25366404dd2b5eb7d82591cc02a13e92",
+"main.dart.js": "5f1f429e8d665f635bd9a42525819ea3",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"version.json": "b2a70ae2c991ea2488dbd4add13a8567",
-"run.py": "26ecd0a0a89f0e9774e0934813cd0ac7",
-"erlang-solutions_2.0_all.deb": "eb30f58aa943830dcb15442db05ca683"
+"version.json": "b2a70ae2c991ea2488dbd4add13a8567"
 };
 
 // The application shell files that are downloaded before a service worker can
